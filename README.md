@@ -1,7 +1,7 @@
 # 09-CCIP-MESSAGING
 # FreeWeb3 & Evidencer Ecosystem
 
-![Ecosystem Logo](logo-sm.png)
+![Ecosystem Logo](https://freeweb3.infura-ipfs.io/ipfs/Qmbj9SkQG9iVZ3CprwoZVKK8ssXjWYDPLozP5A9P5YEtSN)
 
 ## Overview
 
